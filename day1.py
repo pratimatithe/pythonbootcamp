@@ -41,3 +41,5 @@ while not endOfGame and attemptsRemaining > 0:
     elif attemptsRemaining == 0:
         print(Fore.RED + "Sorry, you ran out of attempts. The word was:", answer)
         endOfGame = True
+
+print("Hello World")
